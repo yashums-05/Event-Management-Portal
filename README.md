@@ -90,8 +90,8 @@ college-events/
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yashums-05/college-events.git
-   cd college-events
+   git clone https://github.com/yashums-05/Event-Management-Portal.git
+   cd Event-Management-Portal
    ```
 
 2. **Configure Database:**
